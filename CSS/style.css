@@ -96,6 +96,7 @@ main {
 
 @media screen and (max-width:480px) {
 
+    @import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap');
     .pokemon__data {
     position: absolute;
     font-weight: 200;
